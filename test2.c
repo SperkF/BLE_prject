@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Test in Linux
+=======
